@@ -7,6 +7,10 @@
 
 I am a **Data Scientist** passionate about **Artificial Intelligence** and **Python**. I enjoy turning data into practical and impactful solutions.
 
+Pursuing an MBA in Data Science and AI. Experience with **SAP** and **Data Migration**.
+Knowledgeable in programming languages such as **C++** and **Java**.
+Passionate about games and sports.
+
 ## 🔧 Technologies & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
