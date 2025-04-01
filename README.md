@@ -1,6 +1,6 @@
 
 
-# Hello, I'm Renan 👋
+# Hello, I'm Renan 👋🟢🟡
 
 ![GitHub followers](https://img.shields.io/github/followers/ReMendess?style=social)
 
