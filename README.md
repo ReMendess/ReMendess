@@ -7,8 +7,10 @@
 
 I am a **Data Scientist** passionate about **Artificial Intelligence** and **Python**. I enjoy turning data into practical and impactful solutions.
 
+I apologize for the limited documentation available in the repositories. This platform serves as a **showcase for my work**, and unfortunately, I often find myself constrained by time, which prevents me from thoroughly documenting each project I undertake.
+
 Pursuing an MBA in Data Science and AI. Experience with **SAP** and **Data Migration**.
-Knowledgeable in programming languages such as **C++** and **Java**.
+Knowledgeable in programming languages such as **C++** and **Python**.
 Passionate about games and sports.
 
 ## 🔧 Technologies & Tools
