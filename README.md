@@ -9,7 +9,7 @@ I am a **Data Scientist** passionate about **Artificial Intelligence** and **Pyt
 
 I apologize for the limited documentation available in the repositories. This platform serves as a **showcase for my work**, and unfortunately, I often find myself constrained by time, which prevents me from thoroughly documenting each project I undertake.
 
-Pursuing an MBA in Data Science and AI. Experience with **SAP** and **Data Migration**.
+Completed an MBA in Data Science and AI. Experience with **SAP** and **Data Migration**.
 Knowledgeable in programming languages such as **C++** and **Python**.
 Passionate about games and sports.
 
@@ -32,7 +32,7 @@ Passionate about games and sports.
 - Deep Learning
 - Data Analysis
 - Predictive Modeling
-- Data Visualization
+- Data Engineering
 
 ## 📈 GitHub Stats
 
@@ -41,7 +41,8 @@ Passionate about games and sports.
 
 ## 🏆 Achievements
 
-- 📘 Pursuing an MBA in Data Science and Artificial Intelligence
+- 💹 MBA in Data Science and Artificial Intelligence
+- 📘 Inteligence Artificial Degree in progress.
 - 📚 Completed courses in Machine Learning, Deep Learning, and Data Analysis
 - 📝 Regularly attending to data science meetups and conferences
 
@@ -53,7 +54,7 @@ Passionate about games and sports.
 
 ---
 
-✨ **"Knowledge is not power until it is applied."** ✨
+✨ **"Knowledge is not power until it is applied. 🧠"** ✨
 
 
 
