@@ -5,11 +5,12 @@
 ![GitHub followers](https://img.shields.io/github/followers/ReMendess?style=social)
 
 
-I am a **Data Scientist** passionate about **Artificial Intelligence** and **Python**. I enjoy turning data into practical and impactful solutions.
+I am a **SAP Consultant** and a **Data Scientist** passionate about **Artificial Intelligence** and **SAP**. I enjoy turning data into practical and impactful solutions.
 
 I apologize for the limited documentation available in the repositories. This platform serves as a **showcase for my work**, and unfortunately, I often find myself constrained by time, which prevents me from thoroughly documenting each project I undertake.
 
-Completed an MBA in Data Science and AI. Experience with **SAP** and **Data Migration**.
+Completed an MBA in Data Science and AI. 
+Experience with **SAP** and **ABAP** .
 Knowledgeable in programming languages such as **C++** and **Python**.
 Passionate about games and sports.
 
@@ -28,6 +29,9 @@ Passionate about games and sports.
 
 ## 🧠 Areas of Interest
 
+- SAP SD
+- Data Migration
+- ABAP and BTP.
 - Machine Learning
 - Deep Learning
 - Data Analysis
@@ -43,8 +47,8 @@ Passionate about games and sports.
 
 - 💹 MBA in Data Science and Artificial Intelligence
 - 📘 Inteligence Artificial Degree in progress.
-- 📚 Completed courses in Machine Learning, Deep Learning, and Data Analysis
-- 📝 Regularly attending to data science meetups and conferences
+- 📚 Completed courses in Machine Learning, Deep Learning, and Data Analysis.
+- 🖥️ Completed courses in ABAP, SAP debugging and Functional Configurations.
 
 ## 🌐 Connect With Me
 
